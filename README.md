@@ -54,9 +54,9 @@ This test suite defines setup and teardown methods to manage the environment bef
 
 ## 📁 File and video Reports
 
-- [Reports.html](./20250411_201629.html)
-- [Reports.pdf](./20250411_201629.pdf)
-- [Testsuites.mp4](./Testsuites.mp4)
+- [Reports.html](./Github%20Files/20250411_201629.html)
+- [Reports.pdf](./Github%20Files/20250411_201629.pdf)
+- [Testsuites.mp4](./Github%20Files/Testsuites.mp4)
 
 
 ## Summary of Test Results
