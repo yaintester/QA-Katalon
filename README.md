@@ -35,8 +35,6 @@ The scripts use dynamic XPath handling, reusable test cases, and include validat
    This script automates the checkout process on an e-commerce website using Katalon Studio. It starts by logging in, then selects a product category, subcategory, and specific product. After adding the product to the cart with a specified quantity, it verifies a success notification. The script then fills in shipping details, unchecks the terms of service, and proceeds to checkout. It checks for the visibility of the terms of service pop-up and captures a screenshot before closing the browser. This is used for end-to-end functional testing of the checkout flow.
 
 
-# Test Suites
-This test suite defines setup and teardown methods to manage the environment before and after the execution of the suite and individual test cases. The @SetUp method runs before the suite starts to prepare the global environment, while @TearDown cleans up after the entire suite is complete. For individual test cases, @SetupTestCase runs before each test case to prepare specific conditions, and @TearDownTestCase handles cleanup after each test case. These methods are initially skipped by default but can be activated to ensure a consistent and clean environment for each test run.
 
 # Test Report: All TC Execution Summary
 
