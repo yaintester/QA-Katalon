@@ -52,6 +52,13 @@ This test suite defines setup and teardown methods to manage the environment bef
 - **End Time**: 11-04-2025 20:19:22
 - **Total Time**: 2 minutes 24.476 seconds
 
+## 📁 File and video Reports
+
+- [Reports.html](./20250411_201629.html)
+- [Reports.pdf](./20250411_201629.pdf)
+- [Testsuites.mp4](./Testsuites.mp4)
+
+
 ## Summary of Test Results
 
 | Test Case ID           | Description                        | Status   |
