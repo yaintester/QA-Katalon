@@ -1,18 +1,28 @@
-# QA-Katalon
-This Katalon Studio script suite automates key user flows in an e-commerce application, including:
-- User registration with both new and already-registered email addresses
-- Login with valid and invalid credentials
-- And the complete checkout process. The checkout tests cover dynamic product selection by category and subcategory, adding items to the cart, filling in shipping details, and placing an order—with additional validation for cases such as attempting checkout without agreeing to the Terms of Service.
+# 🛒 Katalon Studio E-Commerce Test Suite
 
-The scripts use dynamic XPath handling, reusable test cases, and include validation steps, conditional logic, and full-page screenshots for effective UI testing and robust error tracking.
+This **Katalon Studio** script suite automates essential user flows in an e-commerce application, ensuring reliable UI behavior and robust error detection through end-to-end testing.
 
-# List Test Case
-1. TC001Register
-2. TC001Register - Invalid Credential
-3. TC002Login
-4. TC002Login - Invalid Credential
-5. TC003Checkout
-6. TC003Checkout - Without Checklist ToS
+## 🔍 Key Features
+
+- ### 🧾 User Registration
+  - Covers new user sign-up
+  - Validates registration attempts with already-registered email addresses
+
+- ### 🔐 User Login
+  - Tests login functionality using valid and invalid credentials
+
+- ### 🛍️ Checkout Process
+  - Dynamic product selection by **category** and **subcategory**
+  - Add products to the cart
+  - Fill in **shipping details**
+  - Place an order successfully
+  - Negative scenario: attempt checkout without agreeing to **Terms of Service**
+
+## 🧪 Testing Highlights
+- ✅ Reusable test cases with parameterization
+- 🔀 Dynamic XPath handling for adaptable UI elements
+- 🔄 Conditional logic to handle multiple user paths
+- 📸 Full-page screenshots for detailed error tracking and visual regression
 
 ## Detail Test Case
 1. TC001Register
